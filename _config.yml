@@ -93,8 +93,8 @@ social:
 # Sections shown in the index page
 pages_list:
   About: "about"
-  Education: "education.html"
-  Experience: "experience.html"
+  Education: "education.md"
+  Experience: "experience.md"
   Contact: "contact"
 # Exclusion list from the generated _site
 exclude:
