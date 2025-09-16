@@ -1,8 +1,8 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://GigiCastro.github.io/test"
-baseurl: "/personal-jekyll-theme"
+url: "https://GigiCastro.github.io"
+baseurl: "/personaltest"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
